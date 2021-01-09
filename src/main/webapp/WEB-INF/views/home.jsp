@@ -8,6 +8,7 @@
 	<div class="row-fluid">
 		<div class="span10 offset1">
 			<h1>2021 Changes are here </h1>
+			<h1>Happy New Year 2021</h1>
 
 
 			<div>
